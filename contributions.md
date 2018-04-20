@@ -7,9 +7,8 @@ week # | contribution | contribution type
 8  | Phaser: [Commenting to close duplicate issue](https://github.com/photonstorm/phaser3-examples/issues/67) | Other
 8  | Phaser: [Commenting on open issue tracking source of bug](https://github.com/photonstorm/phaser3-examples/issues/22) | Other
 9  | Phaser: [Opened issue for documentation error](https://github.com/photonstorm/phaser/issues/3477) | Other
-10 |
-11 | Phaser: [Opened issue for example throwing an error](https://github.com/photonstorm/phaser3-examples/issues/139) | Other
-12 | Phaser: [PR for new example of camera focus on player](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
-13 | Phaser: [PR for new example of camera focus on target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
-14 | Phaser: [PR for new example of camera focus on average betwen player/target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
-15 | Phaser: [PR for new example of topdown shooter mechanics](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
+10 | Phaser: [Opened issue for example throwing an error](https://github.com/photonstorm/phaser3-examples/issues/139) | Other
+11 | Phaser: [PR for new example of camera focus on player](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
+12 | Phaser: [PR for new example of camera focus on target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
+13 | Phaser: [PR for new example of camera focus on average betwen player/target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
+14 | Phaser: [PR for new example of topdown shooter mechanics](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
