@@ -14,3 +14,9 @@ week # | contribution | contribution type
 12 | Phaser: [PR for new example of camera focus on target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
 12 | Phaser: [PR for new example of camera focus on average betwen player/target](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
 12 | Phaser: [PR for new example of topdown shooter mechanics](https://github.com/photonstorm/phaser3-examples/pull/140) | Other
+14 | [Updated wikipedia to say that Phaser 3 has been released](https://en.wikipedia.org/wiki/Special:Contributions/Ditht) | Wikipedia
+14 | [Added content to describe new features in Phaser 3 and that it is developed openly on Github](https://en.wikipedia.org/wiki/Special:Contributions/Ditht)| Wikipedia
+14 | Phaser: [Suggested tool for debugging a broken example that requires going through the API](https://github.com/photonstorm/phaser3-examples/issues/14) | Other
+14 | Phaser: [Commented that an issue with an example is not reproduceable on my machine and probably the issue can be closed](https://github.com/photonstorm/phaser3-examples/issues/147)| Other
+14 | Phaser: [Commented how to broken OffsetPoint example that uses non-existent method](https://github.com/photonstorm/phaser3-examples/issues/40) | Other
+14 | Phaser: [Commented how to fix broken example that uses geometric points](https://github.com/photonstorm/phaser3-examples/issues/160) | Other
